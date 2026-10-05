@@ -27,6 +27,24 @@
 - 🤝 Executive of CSE Society and volunteer at the Bangladesh Physics Olympiad
 - 🌱 Learning and building with Python, machine learning and data
 
+  ## 🔬 Research
+
+<div align="center">
+
+### PoliSent
+**A Benchmark Dataset and Ensemble Machine Learning Framework for Bengali Political Sentiment Analysis**
+
+*Undergraduate thesis · Co-researcher · Department of CSE, Sylhet International University*
+
+<img src="https://img.shields.io/badge/Comments-13,179-c79a5b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Accuracy-93.08%25-5fe0b0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Classes-Positive_·_Neutral_·_Negative-8ea2ff?style=for-the-badge" />
+
+</div>
+
+- Co-developed a manually annotated dataset of 13,179 Bengali political comments collected from Facebook
+- Co-designed an ensemble that combines machine learning and deep learning models through soft voting, hard voting and stacking
+
 ## 🛠️ Tech stack
 
 <div align="center">
