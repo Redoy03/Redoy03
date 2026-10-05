@@ -42,11 +42,6 @@
   <img src="https://streak-stats.demolab.com?user=Redoy03&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
-## 📈 Contribution graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redoy03&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</div>
 
 ## 🐍 Contribution snake
 
